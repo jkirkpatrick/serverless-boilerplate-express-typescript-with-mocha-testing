@@ -14,7 +14,7 @@
     "test": "env TS_NODE_COMPILER_OPTIONS='{\"module\": \"commonjs\" }' mocha -r ts-node/register 'tests/**/*.ts'"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.22.1",
     "helmet": "^4.6.0",
     "serverless-http": "^2.7.0"
   },
